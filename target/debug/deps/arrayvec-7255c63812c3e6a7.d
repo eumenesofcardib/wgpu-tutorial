@@ -1,0 +1,12 @@
+/home/eumenes/rust-stuff/wgpu-tutorial/target/debug/deps/arrayvec-7255c63812c3e6a7.rmeta: /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/lib.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/maybe_uninit.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array_string.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/char.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/errors.rs
+
+/home/eumenes/rust-stuff/wgpu-tutorial/target/debug/deps/libarrayvec-7255c63812c3e6a7.rlib: /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/lib.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/maybe_uninit.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array_string.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/char.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/errors.rs
+
+/home/eumenes/rust-stuff/wgpu-tutorial/target/debug/deps/arrayvec-7255c63812c3e6a7.d: /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/lib.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/maybe_uninit.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array_string.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/char.rs /home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/errors.rs
+
+/home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/lib.rs:
+/home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/maybe_uninit.rs:
+/home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array.rs:
+/home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/array_string.rs:
+/home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/char.rs:
+/home/eumenes/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.1/src/errors.rs:
